@@ -32,7 +32,5 @@ Accuracy: 0.9820
 ## CONCLUSION
 Hence, this project concludes the loan approval prediction system, using artificial neural network, deciding whether a bank customer should be approved a loan or not.
 
-## SOCIAL MEDIA
-Github: https://github.com/Gaurav-8604
 
 
